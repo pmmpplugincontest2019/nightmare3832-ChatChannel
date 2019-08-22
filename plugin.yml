@@ -1,0 +1,5 @@
+name: ChatChannel
+main: chat\Main
+version: 0.0.1
+authors: ['nightmare3832']
+api: 3.9.0
